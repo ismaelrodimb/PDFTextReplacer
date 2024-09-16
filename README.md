@@ -68,4 +68,4 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más
 
 ## Sígueme en redes sociales
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tu--usuario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-rodriguez-imbernon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismael--Rodriguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-rodriguez-imbernon/)
